@@ -1,6 +1,6 @@
 # Comparison of Classification Algorithms for Heart Disease Prediction
 
-A machine learning project that compares multiple classification algorithms for heart disease prediction using data preprocessing, exploratory data analysis (EDA), feature selection, and performance evaluation.
+A machine learning project that compares multiple classification algorithms for heart disease prediction using data preprocessing, exploratory data analysis (EDA), feature selection, and performance evaluation
 
 ---
 
